@@ -4,12 +4,12 @@
     {
       "name": "Cockpit Panel",
       "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
-      "hosted": "",
-      "hosted_offer": "",
-      "selfhosted": "250.00",
-      "selfhosted_offer": "150.00",
-      "sourcecode": "",
-      "sourcecode_offer": "",
+      "hosted": "4",
+      "hosted_offer": "3",
+      "selfhosted": "2500.00",
+      "selfhosted_offer": "1500.00",
+      "sourcecode": "1",
+      "sourcecode_offer": "2",
       "main_image": "https://i.imgur.com/2IJ66Ud.png",
       "images": [
         "https://i.imgur.com/PjD1Bj7.png",
