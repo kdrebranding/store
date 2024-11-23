@@ -1,2 +1,1 @@
-# cockpit-store
-Example / Official Cockpit Storefront for Cockpit Panels
+# My store test
